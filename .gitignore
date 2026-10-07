@@ -40,3 +40,7 @@ iOSDemo/Carthage/Checkouts/*
 iOSDemo/Carthage/Build/watchOS/*
 iOSDemo/Carthage/Build/tvOS/*
 iOSDemo/Carthage/Build/Mac/*
+
+# Swift Package Manager
+.build/
+.swiftpm/

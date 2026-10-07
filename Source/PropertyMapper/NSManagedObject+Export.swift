@@ -1,3 +1,6 @@
+#if SWIFT_PACKAGE
+import SyncObjC
+#endif
 import CoreData
 
 /// The inflection type used to export the NSManagedObject as JSON.

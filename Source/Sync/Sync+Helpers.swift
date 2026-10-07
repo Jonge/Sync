@@ -1,3 +1,7 @@
+#if SWIFT_PACKAGE
+import SyncObjC
+#endif
+
 extension Sync {
     /// Fetches a managed object for the provided primary key in an specific entity.
     ///

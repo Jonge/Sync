@@ -1,3 +1,6 @@
+#if SWIFT_PACKAGE
+import SyncObjC
+#endif
 import CoreData
 
 @available(iOS 10, watchOS 3, tvOS 10, OSX 10.12, *)

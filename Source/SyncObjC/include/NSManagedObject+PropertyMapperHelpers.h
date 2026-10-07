@@ -1,0 +1,1 @@
+../../PropertyMapper/NSManagedObject+PropertyMapperHelpers.h

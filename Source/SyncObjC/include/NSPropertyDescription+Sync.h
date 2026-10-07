@@ -1,0 +1,1 @@
+../../Sync/NSPropertyDescription+Sync.h

@@ -1,3 +1,6 @@
+#if SWIFT_PACKAGE
+import SyncObjC
+#endif
 import Foundation
 import CoreData
 

@@ -1,5 +1,9 @@
 import CoreData
+#if SWIFT_PACKAGE
+import SyncObjC
+#else
 import Sync.NSEntityDescription_PrimaryKey
+#endif
 
 public extension NSManagedObjectContext {
     /**
